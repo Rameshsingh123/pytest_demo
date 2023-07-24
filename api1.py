@@ -18,3 +18,4 @@ def test_get_users():
     # assert "michael.lawson@reqres.in" in response_data
     # assert isinstance(response_data["michael.lawson@reqres.in"], list)
     print(response_data)
+    print(email_to_find)
